@@ -1,0 +1,113 @@
+<!Doctype hmtl>
+<hmtl lang"en">
+<head> 
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA Compatible content=IE=egde
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <Title>MY TOP MOVIES FOR 2021</Title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+h1 { 
+  margin-right: auto;
+  text-align: center;
+}
+
+td {
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+}
+th {
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+}
+img {
+  border-radius: 8px;
+  width: 250;
+  height: 250;
+}
+body
+{
+	background-color:#000000;
+	  color: white;  
+	  p {
+  font-family: verdana;
+  font-size: 30px;
+}
+}
+table{
+	width: 1000px;
+	height: 1000px;
+	margin-left: 150px;
+	border-color: white;
+
+
+}
+div.{
+	color: white;
+}
+</style>
+</head>
+<body>
+
+<h1>MY TOP MOVIES FOR 2021</h1>
+
+<table>
+  <tr>
+    <th>TOP #</th>
+    <th>MOVIE NAME</th>
+    <th>POSTER</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+    	<h1 class="center">The Matrix</h1>	
+    <div>The Matrix is a 1999 American science fiction action film written and directed by the Wachowskis, and produced by Joel Silver. It stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano and is the first installment in the Matrix franchise.</div>
+    <a href="source: https://en.wikipedia.org/wiki/The_Matrix">read more</a>
+     <td>
+    	<img src="https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg">
+    <tr>
+    <td>2</td>
+    <td>
+    	<h1 class="center">The Godfather</h1>
+         <div>The Godfather is a 1972 American crime film directed by Francis Ford Coppola, who co-wrote the screenplay with Mario Puzo, based on Puzo's best-selling 1969 novel of the same name.</div>
+         <a href="https://en.wikipedia.org/wiki/The_Godfather">read more!</a>
+     <td>
+     	<img src="https://upload.wikimedia.org/wikipedia/en/a/af/The_Godfather%2C_The_Game.jpg
+">
+ </tr>
+     <td>3</td>
+     <td>
+     	<h1 class="center">John Wick</h1>
+     <div>John Wick is an American neo-noir action-thriller media franchise created by screenwriter Derek Kolstad and owned by Summit Entertainment. Keanu Reeves plays John Wick, a retired hitman seeking vengeance for the killing of the dog given to him by his recently deceased wife, and for stealing his car.</div>
+     <a href="https://en.wikipedia.org/wiki/John_Wick">read more</a>
+     <td>
+     	<img src="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg">
+    
+     </td>
+     <tr>
+     <td>4</td>
+     <td>
+     	<h1 class="center">Raya and the Last Dragon</h1>
+     <div>Raya and the Last Dragon (/ˈraɪ.ə/ RYE-ə) is a 2021 American computer-animated fantasy action film produced by Walt Disney Pictures and Walt Disney Animation Studios, and distributed by Walt Disney Studios Motion Pictures. The 59th film produced by the studio, it is directed by Don Hall and Carlos López Estrada</div>
+     <a href="https://en.wikipedia.org/wiki/Raya_and_the_Last_Dragon">read more</a>
+     <td>
+     	<img src="https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png">
+ </tr>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+     
+ 
+
+

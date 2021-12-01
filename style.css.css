@@ -1,0 +1,27 @@
+
+
+body {
+    margin: 0 auto;
+    display: block;
+}
+
+.container {
+    max-width: 400px;
+    margin:auto;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 { 
+    margin: 30px auto 0; 
+    text-transform: uppercase;
+}
+
+h3 { margin: 5px auto; font-size: smaller;}
+h4 { margin-bottom: 3px; text-transform: uppercase;}
+.author_desc { text-align: justify; font-size:smaller}
+.source { background-color: chocolate; padding: 0 10px; color: #fff; text-decoration: none;}
